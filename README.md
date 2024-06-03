@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Nikolaos, M.Sc. Statistician
+- 👀 I’m interested in coding using R, Python and SQL
+- 🌱 I’m currently learning more in depth how git, Python and SQL work
+- 💞️ I’m looking to collaborate on projects with big companies
+- 📫 Reach me on insta: @nick.o.laos
+- ⚡ Fun fact: I LOVE CHESS. Challenge me... https://www.chess.com/member/kakomoiris
